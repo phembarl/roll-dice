@@ -1,0 +1,19 @@
+.RollDice-btn {
+  width: 15em;
+  height: 50px;
+  color: #fff;
+  background-color: #000;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.RollDice-btn:hover {
+  background-color: darkslateblue;
+}
+
+.RollDice-rolling {
+  animation-name: rolling;
+  animation-duration: 1s;
+}
